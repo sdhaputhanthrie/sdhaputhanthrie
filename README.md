@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Technology management**
 
-- 📄 Know about my experiences [file:///C:/Users/ADMIN/Downloads/cv%20(1).pdf](file:///C:/Users/ADMIN/Downloads/cv%20(1).pdf)
+- 📄 Know about my experiences [https://drive.google.com/drive/home](https://drive.google.com/drive/home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
