@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Technology management**
 
-- 📄 Know about my experiences https://www.canva.com/design/DAGOsSQoovI/GQLS9my8eGXaAt1AjWrdxw/edit?utm_content=DAGOsSQoovI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- 📄 Know about my experiences https://drive.google.com/file/d/1CFZHiYzdll3IthKFwA3lwF3MR-sbdyML/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
