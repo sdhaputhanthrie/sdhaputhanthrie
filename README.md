@@ -23,4 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdhaputhanthrie&" alt="sdhaputhanthrie" /></p>
 
+## 📊 GitHub Commit Bar Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sdhaputhanthrie&theme=react-dark&area=true&hide_border=false&custom_title=My%20GitHub%20Activity)
 
