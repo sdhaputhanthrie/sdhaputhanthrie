@@ -1,9 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sanadee Dinayana Haputhanthrie</h1>
-<h3 align="center">I am an Undergraduate at NSBM Green University.</h3>
+<br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanadee+Dinayana!;" />
+</h1>
+<hr/>
+<br>
+<br>
+<p align="center">
+    <a href=""><img src="https://streak-stats.demolab.com?user=sdhaputhanthrie&theme=highcontrast" alt="GitHub Streak" /></a>
+</p>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdhaputhanthrie&label=Profile%20views&color=0e75b6&style=flat" alt="sdhaputhanthrie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdhaputhanthrie" alt="sdhaputhanthrie" /></a> </p>
+
+![snake gif](https://github.com/sdhaputhanthrie/sdhaputhanthrie/blob/output/github-contribution-grid-snake-dark.svg)
 
 - 🌱 I’m currently learning **Technology management**
 
