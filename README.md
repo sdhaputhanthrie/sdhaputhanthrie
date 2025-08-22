@@ -10,14 +10,13 @@
 </p>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdhaputhanthrie&label=Profile%20views&color=0e75b6&style=flat" alt="sdhaputhanthrie" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sdhaputhanthrie&label=Profile%20views&color=0e75b6&style=flat" alt="sdhaputhanthrie" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdhaputhanthrie" alt="sdhaputhanthrie" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdhaputhanthrie" alt="sdhaputhanthrie" /></a> </p>
 
+<p align="center">🌱 I’m currently learning <b>Flutter</b></p>
 
-- 🌱 I’m currently learning **Technology management**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/1CFZHiYzdll3IthKFwA3lwF3MR-sbdyML/view?usp=drive_link
+<p align="center">📄 Here are some of the stuff I've done. <b>https://drive.google.com/file/d/1CFZHiYzdll3IthKFwA3lwF3MR-sbdyML/view?usp=drive_link</b></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -31,9 +30,6 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdhaputhanthrie&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart"/>
   </p>
-
-
-## 📊 GitHub Commit Bar Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sdhaputhanthrie&theme=react-dark&area=true&hide_border=false&custom_title=My%20GitHub%20Activity)
 
