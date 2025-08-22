@@ -1,8 +1,7 @@
 <br>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanadee+Dinayana!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Sanadee+Dinayana!;" />
 </h1>
-<hr/>
 <br>
 <br>
 <p align="center">
@@ -32,4 +31,3 @@
   </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sdhaputhanthrie&theme=react-dark&area=true&hide_border=false&custom_title=My%20GitHub%20Activity)
-
