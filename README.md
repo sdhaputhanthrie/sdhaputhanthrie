@@ -5,8 +5,9 @@
 <br>
 <br>
 <p align="center">
-    <a href=""><img src="https://streak-stats.demolab.com?user=sdhaputhanthrie&theme=highcontrast" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=sdhaputhanthrie&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
+
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sdhaputhanthrie&label=Profile%20views&color=0e75b6&style=flat" alt="sdhaputhanthrie" /> </p>
